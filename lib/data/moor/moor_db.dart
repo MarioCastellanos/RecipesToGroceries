@@ -1,6 +1,5 @@
-import 'package:moor_flutter/moor_flutter.dart';
+import 'drift_sqflite/drift_sqflite.dart';
 import '../models/models.dart';
-
 part 'moor_db.g.dart';
 
 // MoorRecipe table
